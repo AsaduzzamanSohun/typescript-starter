@@ -44,16 +44,16 @@
 
 
 // Problem: 1
-let orderStatus: 'proccessing' | 'shipped' | 'delivered' = 'proccessing';
-orderStatus = "shipped";
-orderStatus = "delivered";
+// let orderStatus: 'proccessing' | 'shipped' | 'delivered' = 'proccessing';
+// orderStatus = "shipped";
+// orderStatus = "delivered";
 
-// Problem: 2
-let discount: number | string = 20;
-discount = '20%';
+// // Problem: 2
+// let discount: number | string = 20;
+// discount = '20%';
 
-const prices: number[] = [20, 12, 16, 18];
-const fruits: string[] = ['apple', 'guava', 'berry'];
-const languages = ['bangla', 'english', 'french', 'german', 23, 221];
+// const prices: number[] = [20, 12, 16, 18];
+// const fruits: string[] = ['apple', 'guava', 'berry'];
+// const languages = ['bangla', 'english', 'french', 'german', 23, 221];
 
 
