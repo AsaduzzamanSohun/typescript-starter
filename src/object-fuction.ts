@@ -91,3 +91,12 @@ const sum = (message: string, ...numbers: number[]) =>{
 
 const result = sum('total number is', 1,2,3,4,5);
 console.log(result);
+
+
+
+// ----------- Problem - 3 Reverse String -----------
+const reverseString = (name: string) => {
+    return name.toLowerCase().split('').reverse().join('')
+}
+
+console.log(reverseString("Sohun"));
